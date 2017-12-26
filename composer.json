@@ -2,6 +2,6 @@
     "name": "lw006/pailiezuhe",
     "description": "A simple and useful libraries for the permutation and combination",
     "require": {
-        "php": "^5.* || ^7.*",
+        "php": "^5.* || ^7.*"
     }
 }
